@@ -11,4 +11,5 @@
 // about supported directives.
 //
 //= require hello_world
-//= require main
+// = doesn_nothing
+//= main
